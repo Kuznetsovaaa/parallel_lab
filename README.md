@@ -78,7 +78,6 @@ for (int i = 0; i < n; i++)
 
 | n | Объём задачи (2·n³) | Время, сек | GFLOPS |
 
-|---|---|---|---|
 
 | 200 | 16 000 000 | 0.027455 | 0.583 |
 
@@ -110,7 +109,6 @@ for (int i = 0; i < n; i++)
 
 | n | Время, сек |
 
-|---|---|
 
 | 200 | 0.027455 |
 
@@ -138,5 +136,11 @@ for (int i = 0; i < n; i++)
 
 Пример вывода:
 
-
+Size: 200x200
+Operations: 16000000
+Time: 0.030812 sec
+GFLOPS: 0.519278
+Verification:
+Relative difference: 1.089e-15
+Verification passed
 
